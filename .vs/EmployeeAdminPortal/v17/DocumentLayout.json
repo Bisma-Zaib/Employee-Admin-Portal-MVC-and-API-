@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\employeeadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\employeeadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\model\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\model\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\model\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\model\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F711E01-9ED7-420A-886D-7A6A3A752A10}|EmployeeAdminPortal.mvc\\EmployeeAdminPortal.mvc.csproj|solutionrelative:employeeadminportal.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\lenovo\\source\\repos\\employeeadminportal\\employeeadminportal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T04:31:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T06:21:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T06:20:16.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T04:31:25.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:56:22.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:07:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T13:07:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T13:07:30.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:01:06.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:51:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T11:36:51.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T05:05:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeAdminPortal.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "RelativeToolTip": "EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T06:10:42.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Model\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Model\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Model\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Model\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:26:42.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Model\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Model\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Model\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Model\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:54:19.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:48:43.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:45:31.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T06:42:12.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.mvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.mvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EmployeeAdminPortal.mvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T06:42:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:53:23.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

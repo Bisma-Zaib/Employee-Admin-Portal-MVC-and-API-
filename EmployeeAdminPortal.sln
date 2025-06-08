@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeAdminPortal", "EmployeeAdminPortal\EmployeeAdminPortal.csproj", "{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeAdminPortal.mvc", "EmployeeAdminPortal.mvc\EmployeeAdminPortal.mvc.csproj", "{6F711E01-9ED7-420A-886D-7A6A3A752A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C5DFB1-737B-4F1C-AD7C-1D1705C4C507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F711E01-9ED7-420A-886D-7A6A3A752A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F711E01-9ED7-420A-886D-7A6A3A752A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F711E01-9ED7-420A-886D-7A6A3A752A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F711E01-9ED7-420A-886D-7A6A3A752A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C97C79D-445D-48DB-949C-309ED9D894FA}
+	EndGlobalSection
+EndGlobal
